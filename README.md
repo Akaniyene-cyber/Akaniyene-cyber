@@ -1,5 +1,4 @@
-## Hi there 👋
-###Hello my name is Akan
+Hello my name is Akan Emmanuel Peter
 
 <!--
 **Akaniyene-cyber/Akaniyene-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
